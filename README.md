@@ -1,16 +1,77 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=42A5F5&center=true&vCenter=true&width=600&lines=CALLISTO+SOFTWARE+SOLUTION;Full+Stack+Engineering+Expertise;Innovating+with+Flutter+and+Laravel" alt="Typing SVG" />
 
-<!--
-**Callisto-Software-Solution/Callisto-Software-Solution** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <h1>🚀 Full Stack Engineer | Tech Visionary</h1>
 
-Here are some ideas to get you started:
+  <p align="center">
+    <a href="https://linkedin.com/in/kehan-hasalawa-a93027196">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="mailto:oyaage-email@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://www.facebook.com/hewa.k.hasalawa">
+      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+    </a>
+  </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quote=A%20beautiful%20program%20is%20like%20a%20beautiful%20theorem%3A%20It%20does%20the%20job%20elegantly.&author=Butler%20Lampson&theme=tokyonight" />
+</div>
+
+---
+
+### 🌑 The Vision of Callisto
+Founder of **Callisto Software Solution**, I specialize in building high-performance digital ecosystems. My work blends cutting-edge **Flutter** mobility with robust **PHP/Laravel** architectures to create seamless user journeys.
+
+- 🔭 **Architecting:** Scalable mobile applications and cloud-integrated systems.
+- ⚡ **Innovation:** Leveraging Firebase and REST APIs for real-time performance.
+- 🛠️ **Quality:** Writing unit-tested, clean, and maintainable code.
+
+---
+
+### 🛡️ Tech Stack & Ecosystem
+
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <strong>Frontend & UI/UX</strong><br />
+      <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,figma" />
+    </td>
+    <td align="center" width="33%">
+      <strong>Backend & Data</strong><br />
+      <img src="https://skillicons.dev/icons?i=php,laravel,java,mysql,firebase,postman" />
+    </td>
+    <td align="center" width="33%">
+      <strong>Mobile & Ops</strong><br />
+      <img src="https://skillicons.dev/icons?i=flutter,dart,git,github,vscode,idea" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 Engineering Metrics
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hasalawa&theme=tokyo-night&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+</p>
+
+---
+
+### 💻 My Core Contributions
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hasalawa&theme=tokyonight" width="100%" />
+</div>
+
+---
+
+### 🌟 Featured Repositories
+- 📱 **Callisto Mobile Framework:** High-performance Flutter components.
+- 🌐 **Enterprise API Suite:** Secure Laravel backend architecture.
+
+<div align="center">
+  <br />
+  <img src="https://komarev.com/ghpvc/?username=Hasalawa&color=0077B5&style=for-the-badge&label=Digital+Footprint" />
+  <br />
+  <sub>Built with ❤️ by Callisto Software Solution</sub>
+</div>
