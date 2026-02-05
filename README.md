@@ -63,7 +63,7 @@ Our mission is to empower organizations and individuals with innovative, custome
     </td>
     <td align="center">
       <a href="https://github.com/KishanChiv" style="text-decoration: none;">
-        <img src="https://github.com/KishanChiv.png?size=100" width="80px" style="border-radius: 50%; border: 2px solid #F44336;" alt="Member 6"/><br />
+        <img src="https://github.com/Callisto-Software-Solution/Callisto-Software-Solution/blob/main/1.jpg?size=100" width="80px" style="border-radius: 50%; border: 2px solid #F44336;" alt="Member 6"/><br />
         <sub><b style="color: #ffffff;">Krishan</b></sub><br />
         <sub style="color: #888888;">Engineer</sub>
       </a>
