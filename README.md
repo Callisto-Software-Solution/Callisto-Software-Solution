@@ -7,7 +7,7 @@
     <a href="https://www.linkedin.com/company/98996496/admin/dashboard/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <a href="mailto:oyaage-email@gmail.com">
+    <a href="mailto:callistosoftwaresolution@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
     <a href="https://web.facebook.com/CallistoSoftwareSolution?_rdc=1&_rdr#">
