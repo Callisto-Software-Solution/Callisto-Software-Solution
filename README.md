@@ -4,13 +4,13 @@
   <h1>🚀 Full Stack Engineer | Tech Visionary</h1>
 
   <p align="center">
-    <a href="https://linkedin.com/in/kehan-hasalawa-a93027196">
+    <a href="https://www.linkedin.com/company/98996496/admin/dashboard/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
     <a href="mailto:oyaage-email@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
-    <a href="https://www.facebook.com/hewa.k.hasalawa">
+    <a href="https://web.facebook.com/CallistoSoftwareSolution?_rdc=1&_rdr#">
       <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
     </a>
   </p>
@@ -53,14 +53,14 @@ Founder of **Callisto Software Solution**, I specialize in building high-perform
 ### 📊 Engineering Metrics
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hasalawa&theme=tokyo-night&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Callisto-Software-Solution&theme=tokyo-night&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 </p>
 
 ---
 
 ### 💻 My Core Contributions
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hasalawa&theme=tokyonight" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Callisto-Software-Solution&theme=tokyonight" width="100%" />
 </div>
 
 ---
@@ -71,7 +71,7 @@ Founder of **Callisto Software Solution**, I specialize in building high-perform
 
 <div align="center">
   <br />
-  <img src="https://komarev.com/ghpvc/?username=Hasalawa&color=0077B5&style=for-the-badge&label=Digital+Footprint" />
+  <img src="https://komarev.com/ghpvc/?username=Callisto-Software-Solution&color=0077B5&style=for-the-badge&label=Digital+Footprint" />
   <br />
   <sub>Built with ❤️ by Callisto Software Solution</sub>
 </div>
