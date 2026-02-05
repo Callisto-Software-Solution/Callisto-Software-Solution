@@ -4,8 +4,8 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
   <div style="align-items: center; justify-content: center; flex-direction: column;">
-<img  width="230" alt="transparent" src="https://github.com/user-attachments/assets/f7920475-95c2-4e56-91e9-56a41a625d6b" />
-</div>
+    <img width="230" alt="transparent" src="https://github.com/user-attachments/assets/f7920475-95c2-4e56-91e9-56a41a625d6b" />
+  </div>
 
   <h1>CALLISTO SOFTWARE SOLUTION</h1>
 
@@ -19,55 +19,53 @@ At <b>Callisto Software Solution</b>, we lead the way in <b>AI-driven cybersecur
 Our mission is to empower organizations and individuals with innovative, customer-centric, and reliable AI-driven cyber security solutions. We are committed to sustainability, fostering a diverse workforce, and making a global impact on digital security.
 </p>
 
----
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-### 👥 Meet the Minds Behind Callisto
+### <img src="https://github.com/user-attachments/assets/f7920475-95c2-4e56-91e9-56a41a625d6b" width="30"> Meet the Minds Behind Callisto
 <p align="center">Our strength lies in our diverse expertise. We are a team of 6 dedicated specialists committed to engineering excellence.</p>
 
 <table align="center">
   <tr>
     <td align="center">
-      <a href="https://github.com/Hasalawa">
-        <img src="https://github.com/Hasalawa.png?size=100" width="100px;" alt="Member 1"/><br />
-        <sub><b>K.Hasalawa</b></sub><br />
-        <sub>Founder of Callisto</sub>
+      <a href="https://github.com/Hasalawa" style="text-decoration: none;">
+        <img src="https://github.com/Hasalawa.png?size=100" width="80px" style="border-radius: 50%; border: 2px solid #F44336;" alt="Member 1"/><br />
+        <sub><b style="color: #ffffff;">K.Hasalawa</b></sub><br />
+        <sub style="color: #888888;">Founder</sub>
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/TharindraDasuni">
-        <img src="https://github.com/TharindraDasuni.png?size=100" width="100px;" alt="Member 2"/><br />
-        <sub><b>Dasuni</b></sub><br />
-        <sub>Co-Founder</sub>
+      <a href="https://github.com/TharindraDasuni" style="text-decoration: none;">
+        <img src="https://github.com/TharindraDasuni.png?size=100" width="80px" style="border-radius: 50%; border: 2px solid #F44336;" alt="Member 2"/><br />
+        <sub><b style="color: #ffffff;">Dasuni</b></sub><br />
+        <sub style="color: #888888;">Co-Founder</sub>
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/Sahan20030814">
-        <img src="https://github.com/Sahan20030814.png?size=100" width="100px;" alt="Member 3"/><br />
-        <sub><b>Sahan</b></sub><br />
-        <sub>CEO</sub>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/thusharaJIAT">
-        <img src="https://github.com/thusharaJIAT.png?size=100" width="100px;" alt="Member 4"/><br />
-        <sub><b>Thushara</b></sub><br />
-        <sub>CTO</sub>
+      <a href="https://github.com/Sahan20030814" style="text-decoration: none;">
+        <img src="https://github.com/Sahan20030814.png?size=100" width="80px" style="border-radius: 50%; border: 2px solid #F44336;" alt="Member 3"/><br />
+        <sub><b style="color: #ffffff;">Sahan</b></sub><br />
+        <sub style="color: #888888;">CEO</sub>
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/shan2003034">
-        <img src="https://github.com/shan2003034.png?size=100" width="100px;" alt="Member 5"/><br />
-        <sub><b>Lakshan</b></sub><br />
-        <sub></sub>
+      <a href="https://github.com/thusharaJIAT" style="text-decoration: none;">
+        <img src="https://github.com/thusharaJIAT.png?size=100" width="80px" style="border-radius: 50%; border: 2px solid #F44336;" alt="Member 4"/><br />
+        <sub><b style="color: #ffffff;">Thushara</b></sub><br />
+        <sub style="color: #888888;">CTO</sub>
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/USERNAME_6">
-        <img src="https://github.com/USERNAME_6.png?size=100" width="100px;" alt="Member 6"/><br />
-        <sub><b>Krishan</b></sub><br />
-        <sub></sub>
+      <a href="https://github.com/shan2003034" style="text-decoration: none;">
+        <img src="https://github.com/shan2003034.png?size=100" width="80px" style="border-radius: 50%; border: 2px solid #F44336;" alt="Member 5"/><br />
+        <sub><b style="color: #ffffff;">Lakshan</b></sub><br />
+        <sub style="color: #888888;">Engineer</sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/krishanchirantha" style="text-decoration: none;">
+        <img src="https://github.com/krishanchirantha.png?size=100" width="80px" style="border-radius: 50%; border: 2px solid #F44336;" alt="Member 6"/><br />
+        <sub><b style="color: #ffffff;">Krishan</b></sub><br />
+        <sub style="color: #888888;">Engineer</sub>
       </a>
     </td>
   </tr>
@@ -127,26 +125,30 @@ Our mission is to empower organizations and individuals with innovative, custome
   </a>
 </div>
 
- <br />
-  <p align="center">
-    <a href="https://www.linkedin.com/company/98996496/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="mailto:callistosoftwaresolution@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-    <a href="https://web.facebook.com/CallistoSoftwareSolution">
-      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-    </a>
-  </p>
-  
 <br />
+<p align="center">
+  <a href="https://www.linkedin.com/company/98996496/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:callistosoftwaresolution@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://web.facebook.com/CallistoSoftwareSolution">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+</p>
+  
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Callisto-Software-Solution&color=F44336&style=for-the-badge&label=Security+Audit+Views" />
-  <br />
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
   
-  <sub><img  width="50" alt="transparent" src="https://github.com/user-attachments/assets/f7920475-95c2-4e56-91e9-56a41a625d6b" />
-© 2026 Callisto Software Solution | Powering a Safer Digital World</sub>
+  <div style="display: flex; align-items: center; justify-content: center; gap: 10px;">
+    <img width="40" alt="Callisto Logo" src="https://github.com/user-attachments/assets/f7920475-95c2-4e56-91e9-56a41a625d6b" />
+    <span style="font-size: 0.9em; font-weight: bold;">
+      © 2026 Callisto Software Solution | Powering a Safer Digital World
+    </span>
+  </div>
+  
+  <br />
+  <img src="https://komarev.com/ghpvc/?username=Callisto-Software-Solution&color=F44336&style=for-the-badge&label=Security+Audit+Views" />
 </div>
 </div>
