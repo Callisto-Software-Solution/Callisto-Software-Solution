@@ -58,14 +58,14 @@ Our mission is to empower organizations and individuals with innovative, custome
       <a href="https://github.com/shan2003034" style="text-decoration: none;">
         <img src="https://github.com/shan2003034.png?size=100" width="80px" style="border-radius: 50%; border: 2px solid #F44336;" alt="Member 5"/><br />
         <sub><b style="color: #ffffff;">Lakshan</b></sub><br />
-        <sub style="color: #888888;">Engineer</sub>
+        <sub style="color: #888888;">Software Engineer</sub>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/KishanChiv" style="text-decoration: none;">
         <img src="https://github.com/Callisto-Software-Solution/Callisto-Software-Solution/blob/main/1.jpg?size=100" width="80px" style="border-radius: 50%; border: 2px solid #F44336;" alt="Member 6"/><br />
         <sub><b style="color: #ffffff;">Krishan</b></sub><br />
-        <sub style="color: #888888;">Engineer</sub>
+        <sub style="color: #888888;">Software Engineer</sub>
       </a>
     </td>
   </tr>
